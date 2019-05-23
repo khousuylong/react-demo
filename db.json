@@ -10,5 +10,19 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "clumnvalues":[
+    {"val":"New York"},
+    {"val":"Pennsylvania"},
+    {"val":"Tennessee"},
+    {"val":"Alabama"},
+    {"val":"Wisconsin"},
+    {"val":"01234"},
+    {"val":"California"},
+    {"val":"Virgin Islands"},
+    {"val":"Colorado"},
+    {"val":"South Carolina"},
+    {"val":"Louisiana"},
+    {"val":"Vermont"}
+  ]
 }
