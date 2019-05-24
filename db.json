@@ -12,17 +12,17 @@
     "name": "typicode"
   },
   "clumnvalues":[
-    {"val":"New York"},
-    {"val":"Pennsylvania"},
-    {"val":"Tennessee"},
-    {"val":"Alabama"},
-    {"val":"Wisconsin"},
-    {"val":"01234"},
-    {"val":"California"},
-    {"val":"Virgin Islands"},
-    {"val":"Colorado"},
-    {"val":"South Carolina"},
-    {"val":"Louisiana"},
-    {"val":"Vermont"}
+    "New York",
+    "Pennsylvania",
+    "Tennessee",
+    "Alabama",
+    "Wisconsin",
+    "01234",
+    "California",
+    "Virgin Islands",
+    "Colorado",
+    "South Carolina",
+    "Louisiana",
+    "Vermont"
   ]
 }
