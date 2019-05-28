@@ -24,5 +24,6 @@
     "South Carolina",
     "Louisiana",
     "Vermont"
-  ]
+  ],
+  "minMaxValue": {"max":"44006","min":"5"}
 }
