@@ -1,4 +1,5 @@
 {
+  "columns": ["area", "name", "abbrev", "population", "fips"],
   "clumnvalues":[
     "New York",
     "Pennsylvania",
