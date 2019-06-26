@@ -15,5 +15,6 @@
     "Vermont"
   ],
   "minMaxValue": {"max":"44006","min":"5"},
-  "classificationValues": [13.0,550043.0,799065.0,1515069.0,2573216.0,3486703.0]
+  "classificationValues": [13.0,550043.0,799065.0,1515069.0,2573216.0,3486703.0],
+  "edrawthumnail": ""
 }
